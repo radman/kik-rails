@@ -1,5 +1,3 @@
-module Kik
-  module Rails
-    VERSION = "0.0.1"
-  end
+module KikRails
+  VERSION = "0.0.1"
 end
